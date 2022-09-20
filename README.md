@@ -9,7 +9,7 @@
 В корне проекта создать файл ```.env``` 
 Пример файла ```default.env```
 
-Создать ```SHORTCUT_API_TOKEN``` на странице ```https://app.shortcut.com/happify/settings/account/api-tokens``` 
+Создать ```SHORTCUT_API_TOKEN``` на странице https://app.shortcut.com/happify/settings/account/api-tokens
 и записать в файл ```.env```.
 
 ### Install Docker 
