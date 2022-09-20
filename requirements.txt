@@ -1,0 +1,7 @@
+fastapi==0.81.0
+uvicorn==0.18.3
+httpx==0.23.0
+humps==0.2.2
+pandas==1.4.4
+openpyxl==3.0.10
+python-dotenv==0.21.0
